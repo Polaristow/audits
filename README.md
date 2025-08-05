@@ -45,6 +45,34 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - MoveFun
 - Arche Protocol
 - Redstone
+- HyperFluid
+- Echo Protocol
+- Hyperion
+- Cellana
+- Joule Finance
+- Amnis
+- Interest Protocol
+- Haedal Protocol
+- Haedal Protocol2
+- Haedal Protocol
+- Haedal
+- LayerBank
+- Auro Finance
+- EthosX
+- Hawal
+- Realize
+- Interest Protocol
+- PicWe
+- Solido
+- MMT Finance
+- Scallop
+- Haedal
+- Typus Pool
+- Avalon Finance
+- Nemo Protocol
+- Henry
+- Avalon Finance
+- Solido
 
 ## [ScaleBit](https://www.scalebit.xyz/)
 - EchoDEX
@@ -79,6 +107,16 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - FarmerMeme
 - MoonPump
 - Pell Network-solana
+- SynStation
+- Pieverse
+- moonpump
+- Pieverse2
+- TagAI
+- Bayes
+- Echo Bridge
+- NSR
+- ShareX
+- Chenmo
   
 ## Tonbit
 - ModoriLabs
@@ -91,6 +129,9 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - TOM PUMP
 - SecondLive
 - UTonic
+- Beetroot
+- KTON
+- KTON2
   
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
