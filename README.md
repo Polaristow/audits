@@ -1,7 +1,8 @@
 # [Polaris_tow's](https://github.com/Polaristow) smart contract security portfolio
 ## About Polaris_tow
-I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in bug bounty in my spare time. Here, I document my auditing experience.
+Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Documenting my auditing journey here.
 ## [MoveBit](https://www.movebit.xyz/)
+### Internal Audit
 - BlockBolt
 - Haedal
 - MSafe
@@ -75,6 +76,7 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - Solido
 
 ## [ScaleBit](https://www.scalebit.xyz/)
+### Internal Audit
 - EchoDEX
 - Zomma
 - 10K Swap
@@ -119,6 +121,7 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - Chenmo
   
 ## Tonbit
+### Internal Audit
 - ModoriLabs
 - BeaverLand
 - Pump Hub
@@ -133,17 +136,31 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - KTON
 - KTON2
   
-## Bug Bounty
-### [HackenProof](https://hackenproof.com/)
-**Ranked 48th on HackenProof**
-- Plisio
-- BLOFWM
-- Bluefin
-- Sui
-### [Immunefi](https://immunefi.com/)
-- Gala Game
 ## Penetration testing
 - B² NETWORK
 - Merlin Starter
 - Bouncebit
 - BiHelix
+
+## Audit contest
+|  Ranking | Contest                    | Language
+|-------------------|----------------------------------|----------------------------------|
+| 🥇1st place    🥇     | Secure3-CUDIS_NFT_Update           |Solana rust|
+| 🥇1st place    🥇     | Secure3-CUDIS_NFT_Update2           |Solana rust|
+| 🥈2nd place     🥈    | [hackenproof-Bluefin](https://hackenproof.com/audit-programs/bluefin-audit-contest) |Sui Move|
+| 🥈2nd place     🥈    | [hackenproof-Kinetic](https://hackenproof.com/audit-programs/kinetic-audit-contest) |Evm Solidity|
+
+
+
+## Bug Bounty
+
+| **Project** | **Severity** | **Status** | **Platform** |
+| ------------- | ------------| ------------ | ------------ | 
+| injective   | 1 Critical | Duplicated | Immunefi |
+| Gala Game   | 1 High    | Paid | Immunefi |
+|Sui        | 2 low     | Paid | Hackenproof|
+|BLOFWM      |1 low     | Paid | Hackenproof|
+|Plisio      |1 low     | Paid | Hackenproof|
+
+
+
