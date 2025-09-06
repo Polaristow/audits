@@ -147,8 +147,8 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 |-------------------|----------------------------------|----------------------------------|
 | 🥇1st place    🥇     | Secure3-CUDIS_NFT_Update           |Solana rust|
 | 🥇1st place    🥇     | Secure3-CUDIS_NFT_Update2           |Solana rust|
-| 🥈2nd place     🥈    | [hackenproof-Bluefin](https://hackenproof.com/audit-programs/bluefin-audit-contest) |Sui Move|
-| 🥈2nd place     🥈    | [hackenproof-Kinetic](https://hackenproof.com/audit-programs/kinetic-audit-contest) |Evm Solidity|
+| 🥈2nd place     🥈    | [Hackenproof-Bluefin](https://hackenproof.com/audit-programs/bluefin-audit-contest) |Sui Move|
+| 🥈2nd place     🥈    | [Hackenproof-Kinetic](https://hackenproof.com/audit-programs/kinetic-audit-contest) |Evm Solidity|
 
 
 
