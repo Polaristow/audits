@@ -20,7 +20,6 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 - JumpTrade
 - Interest Protocol
 - Sparkling Finance
-- Cetus Limit Order
 - Sparkling Finance
 - Suigallerie Network
 - ZIPTOS
@@ -40,7 +39,6 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 - Undying City
 - Echo Protocol LSD
 - Haedal Protocol
-- Lombard Finance
 - FanTV
 - Aptables
 - MoveFun
@@ -70,10 +68,8 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 - Haedal
 - Typus Pool
 - Avalon Finance
-- Nemo Protocol
 - Henry
 - Avalon Finance
-- Solido
 
 ## [ScaleBit](https://www.scalebit.xyz/)
 ### Internal Audit
@@ -136,11 +132,6 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 - KTON
 - KTON2
   
-## Penetration testing
-- B² NETWORK
-- Merlin Starter
-- Bouncebit
-- BiHelix
 
 ## Audit contest
 |  Ranking | Contest                    | Language
