@@ -27,7 +27,6 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 - Joule MM
 - Pinata
 - AGDEX
-- Unihouse
 - Traders.tech
 - BIRDS
 - Moar
@@ -53,16 +52,13 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 - Interest Protocol
 - Haedal Protocol
 - Haedal Protocol2
-- Haedal Protocol
-- Haedal
+- Haedal Protocol3
 - LayerBank
 - Auro Finance
-- EthosX
 - Hawal
 - Realize
 - Interest Protocol
 - PicWe
-- Solido
 - MMT Finance
 - Scallop
 - Haedal
@@ -73,6 +69,7 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 
 ## [ScaleBit](https://www.scalebit.xyz/)
 ### Internal Audit
+- EthosX
 - EchoDEX
 - Zomma
 - 10K Swap
