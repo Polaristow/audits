@@ -62,7 +62,6 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 - MMT Finance
 - Scallop
 - Haedal
-- Typus Pool
 - Avalon Finance
 - Henry
 - Avalon Finance
