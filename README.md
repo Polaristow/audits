@@ -132,15 +132,18 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 ## Audit contest
 |  Ranking | Contest                    | Language
 |-------------------|----------------------------------|----------------------------------|
-| 🥇1st place    🥇     | Secure3-CUDIS_NFT_Update           |Solana rust|
-| 🥇1st place    🥇     | Secure3-CUDIS_NFT_Update2           |Solana rust|
-| 🥈2nd place     🥈    | [Hackenproof-Bluefin](https://hackenproof.com/audit-programs/bluefin-audit-contest) |Sui Move|
-| 🥈2nd place     🥈    | [Hackenproof-Kinetic](https://hackenproof.com/audit-programs/kinetic-audit-contest) |Evm Solidity|
+| 1st place        | Secure3-CUDIS_NFT_Update           |Solana rust|
+| 1st place        | Secure3-CUDIS_NFT_Update2           |Solana rust|
+| 2nd place        | [Hackenproof-Bluefin](https://hackenproof.com/audit-programs/bluefin-audit-contest) |Sui Move|
+| 2nd place        | [Hackenproof-Kinetic](https://hackenproof.com/audit-programs/kinetic-audit-contest) |Evm solidity|
+|4th place         | [Hackenproof-DexLyn](https://hackenproof.com/audit-programs/dexlyn-smart-contract-audit-contest)|Aptos Move|
+|  12th place     | [Cantina-Kuru Labs](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/leaderboard) | Evm solidity|
+| 13th Place       | [Cantina-Solayer Bridge](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb/overview/leaderboard)| Solana rust |
 
 
 
 ## Bug Bounty
-
+**Currently ranked 47th on HackenProof.**
 | **Project** | **Severity** | **Status** | **Platform** |
 | ------------- | ------------| ------------ | ------------ | 
 | injective   | 1 Critical | Duplicated | Immunefi |
