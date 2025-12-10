@@ -144,7 +144,7 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 
 
 ## Bug Bounty
-**Currently ranked 47th on HackenProof.**
+**Currently ranked 37th on HackenProof.**
 | **Project** | **Severity** | **Status** | **Platform** |
 | ------------- | ------------| ------------ | ------------ | 
 | injective   | 1 Critical | Duplicated | Immunefi |
