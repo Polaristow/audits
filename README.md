@@ -144,14 +144,17 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 
 
 ## Bug Bounty
-**Currently ranked 37th on HackenProof.**
+**Currently ranked 33th on HackenProof.**
 | **Project** | **Severity** | **Status** | **Platform** |
 | ------------- | ------------| ------------ | ------------ | 
-| injective   | 1 Critical | Duplicated | Immunefi |
-| Gala Game   | 1 High    | Paid | Immunefi |
-|Sui        | 2 low     | Paid | Hackenproof|
-|BLOFWM      |1 low     | Paid | Hackenproof|
-|Plisio      |1 low     | Paid | Hackenproof|
+| injective   | Critical | Duplicated | Immunefi |
+| Gala Game   | High    | Paid | Immunefi |
+|Sui        | Medium     | Duplicated | Hackenproof|
+| Threshold Network  | Low    | Paid | Immunefi |
+|Sui        | low     | Paid | Hackenproof|
+|Sui        | low     | Paid | Hackenproof|
+|BLOFWM      |low     | Paid | Hackenproof|
+|Plisio      |low     | Paid | Hackenproof|
 
 
 
