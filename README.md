@@ -153,6 +153,7 @@ Builder & Sec Researcher (ex-MoveBit). Bug bounty hunter 🕵️‍♂️. Docum
 | Threshold Network  | Low    | Paid | Immunefi |
 |Sui        | low     | Paid | Hackenproof|
 |Sui        | low     | Paid | Hackenproof|
+|Sui        | low     | Paid | Hackenproof|
 |Sui        | low     | Duplicated | Hackenproof|
 |BLOFWM      |low     | Paid | Hackenproof|
 |Plisio      |low     | Paid | Hackenproof|
