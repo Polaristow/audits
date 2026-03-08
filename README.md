@@ -80,10 +80,9 @@ Smart contract security researcher with **120+ protocol audits** across multiple
 | [MMT Finance](https://mmt.finance/) | Sui Move | DEX |
 | [Interest Protocol](https://www.interestprotocol.com/) | Sui Move | Lending |
 | [Amnis Finance](https://amnis.finance/) | Aptos Move | Liquid Staking |
-| [MSafe](https://msafe.io/) | Sui Move | Multisig Wallet |
 | [Pell Network](https://pell.network/) | Sui Move | Restaking |
 | [Hyperion](https://hyperion.xyz/) | Sui/Aptos Move | DEX |
-| [Echo Protocol](https://echoprotocol.io/) | Sui Move | DeFi |
+| [Echo Protocol](https://www.echo-protocol.xyz/) | Aptos Move | DeFi |
 | [HyperFluid](https://hyperfluid.xyz/) | Sui Move | DeFi |
 | [Redstone](https://redstone.finance/) | Move | Oracle |
 
