@@ -149,7 +149,7 @@ Smart contract security researcher with **120+ protocol audits** across multiple
 - 🐦 Twitter: [@Polaris_tow](https://x.com/Polaris_tow)
 - ✈️ Telegram: [@Polaris_tow](https://t.me/Polaris_tow)
 - 📧 Email: polaristow2@gmail.com
-- 🏴‍☠️ HackenProof: [Polaristow](https://hackenproof.com/hackers/polaristow)
+
 
 
 
