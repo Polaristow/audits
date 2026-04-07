@@ -25,6 +25,7 @@ Smart contract security researcher with **120+ protocol audits** across multiple
 |---------|---------|----------|
 | 🥇 1st place | [Secure3 - CUDIS NFT Update](<!-- TODO: add link -->) | Solana (Rust) |
 | 🥇 1st place | [Secure3 - CUDIS NFT Update 2](<!-- TODO: add link -->) | Solana (Rust) |
+| 🥈 2nd place ｜ [Sherlock - Current Finance](https://audits.sherlock.xyz/contests/1256) | Sui (move) |
 | 🥈 2nd place | [Hackenproof - Bluefin](https://hackenproof.com/audit-programs/bluefin-audit-contest) | Sui (Move) |
 | 🥈 2nd place | [Hackenproof - Kinetic](https://hackenproof.com/audit-programs/kinetic-audit-contest) | EVM (Solidity) |
 | 🏅 4th place | [Hackenproof - DexLyn](https://hackenproof.com/audit-programs/dexlyn-smart-contract-audit-contest) | Aptos (Move) |
