@@ -40,7 +40,7 @@ Smart contract security researcher with **120+ protocol audits** across multiple
 |------|-------|
 | [Plainshift](https://plainshift.io/) | Collaborative security audits |
 | [FailSafe](https://getfailsafe.com/) | Collaborative security audits |
-
+| [HackenProof](https://hackenproof.com/) | Collaborative security audits |
 ---
 
 ## 🐛 Bug Bounty
